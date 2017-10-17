@@ -1,0 +1,137 @@
+{
+	"report": {
+		"assessmentDetails": {
+			"assessmentMonth": 1,
+			"assessmentTitle": "Test Cycle 1"
+		},
+		"date": "Thu Aug 03 2017 23:07:30 GMT+0530 (India Standard Time)",
+		"skills": {
+			"problemSolving": {
+				"correctAnswerCount": 4,
+				"modules": {
+					"dxma101": {
+						"correctAnswerCount": 1,
+						"module": 1,
+						"questionCount": 2,
+						"title": "Nearby Numbers 0 to 10"
+					},
+					"dxma102": {
+						"correctAnswerCount": 0,
+						"module": 2,
+						"questionCount": 1,
+						"title": "Making 10s"
+					},
+					"dxma103": {
+						"correctAnswerCount": 1,
+						"module": 3,
+						"questionCount": 1,
+						"title": "Number Parts of 9"
+					},
+					"dxsc101": {
+						"correctAnswerCount": 1,
+						"module": 1,
+						"questionCount": 1,
+						"title": "Safety Rules at Home"
+					},
+					"dxsc102": {
+						"correctAnswerCount": 1,
+						"module": 2,
+						"questionCount": 2,
+						"title": "Taking Care of School"
+					},
+					"dxsc103": {
+						"correctAnswerCount": 0,
+						"module": 3,
+						"questionCount": 1,
+						"title": "Clothes We Wear"
+					}
+				},
+				"questionCount": 8,
+				"score": 50
+			},
+			"understanding": {
+				"correctAnswerCount": 2,
+				"modules": {
+					"dxma102": {
+						"correctAnswerCount": 0,
+						"module": 2,
+						"questionCount": 1,
+						"title": "Making 10s"
+					},
+					"dxma103": {
+						"correctAnswerCount": 1,
+						"module": 3,
+						"questionCount": 1,
+						"title": "Number Parts of 9"
+					},
+					"dxsc101": {
+						"correctAnswerCount": 1,
+						"module": 1,
+						"questionCount": 1,
+						"title": "Safety Rules at Home"
+					},
+					"dxsc103": {
+						"correctAnswerCount": 0,
+						"module": 3,
+						"questionCount": 1,
+						"title": "Clothes We Wear"
+					}
+				},
+				"questionCount": 4,
+				"score": 50
+			}
+		},
+		"subjects": {
+			"math": {
+				"correctAnswerCount": 3,
+				"modules": {
+					"dxma101": {
+						"correctAnswerCount": 1,
+						"module": 1,
+						"questionCount": 2,
+						"title": "Nearby Numbers 0 to 10"
+					},
+					"dxma102": {
+						"correctAnswerCount": 0,
+						"module": 2,
+						"questionCount": 2,
+						"title": "Making 10s"
+					},
+					"dxma103": {
+						"correctAnswerCount": 2,
+						"module": 3,
+						"questionCount": 2,
+						"title": "Number Parts of 9"
+					}
+				},
+				"questionCount": 6,
+				"score": 50
+			},
+			"science": {
+				"correctAnswerCount": 3,
+				"modules": {
+					"dxsc101": {
+						"correctAnswerCount": 2,
+						"module": 1,
+						"questionCount": 2,
+						"title": "Safety Rules at Home"
+					},
+					"dxsc102": {
+						"correctAnswerCount": 1,
+						"module": 2,
+						"questionCount": 2,
+						"title": "Taking Care of School"
+					},
+					"dxsc103": {
+						"correctAnswerCount": 0,
+						"module": 3,
+						"questionCount": 2,
+						"title": "Clothes We Wear"
+					}
+				},
+				"questionCount": 6,
+				"score": 50
+			}
+		}
+	}
+}
